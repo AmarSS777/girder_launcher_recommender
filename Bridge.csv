@@ -1,0 +1,39 @@
+Span length,Girder,Deck width,Launcher
+21,1,9,Segment Launcher
+25,1,9,Segment Launcher
+28,1,9,Segment Launcher
+30,1,9,Segment Launcher
+34,1,9,Segment Launcher
+37,1,12,Segment Launcher
+40,1,12,Segment Launcher
+46,1,13,Segment Launcher
+52,1,13,Segment Launcher
+55,1,14,Segment Launcher
+60,1,14,Segment Launcher
+60,1,16,Bridge Builder
+70,1,16,Bridge Builder
+80,1,16,Bridge Builder
+90,1,16,Bridge Builder
+100,1,19,Bridge Builder
+110,1,20,Bridge Builder
+120,1,21,Bridge Builder
+130,1,24,Bridge Builder
+140,1,24,Bridge Builder
+150,1,28,Bridge Builder
+15,2,10,U Girder Launcher
+17,2,10,U Girder Launcher
+21,2,10,U Girder Launcher
+25,2,10,U Girder Launcher
+28,2,10,U Girder Launcher
+15,3,12,I Girder Launcher
+17,3,12,I Girder Launcher
+21,3,12,I Girder Launcher
+25,3,12,I Girder Launcher
+28,3,12,I Girder Launcher
+35,3,12,I Girder Launcher
+15,4,12,T Girder Launcher
+17,4,12,T Girder Launcher
+21,4,12,T Girder Launcher
+25,4,12,T Girder Launcher
+28,4,12,T Girder Launcher
+35,4,12,T Girder Launcher
